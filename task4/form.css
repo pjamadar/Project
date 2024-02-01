@@ -27,6 +27,7 @@ body {
     gap: 1rem;
   }
   ul {
+      
     display: flex;
     gap: 1rem;
     list-style: none;
